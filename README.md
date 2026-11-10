@@ -3,7 +3,6 @@ Denna webbplats presenteras ett antal bilder. Dessa bilder ska vara så enhetlig
 
 ## Funktioner
 - Responsiv design
-- Dynamisk navigation med JavaScript
 - Layout med CSS Flexbox, Grid.
 - Startsida
 - Presentattion av de redigerade bilderna
