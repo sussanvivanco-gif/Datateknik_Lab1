@@ -22,7 +22,7 @@ Projektet är byggt med:
 - CSS
 - JavaScript
 
-## Webbadress: 
+## Webbadress: https://sussanvivanco-gif.github.io/Datateknik_Lab1/index.html
 
 
 ## Kontakt
